@@ -1,6 +1,6 @@
 {
   "name": "get-response-lite",
-  "version": "1.2.1",
+  "version": "1.2.4",
   "description": "Ask any questions to AI, and get your response right at your terminal",
   "main": "index.js",
   "type": "module",

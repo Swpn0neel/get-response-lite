@@ -2,13 +2,13 @@
 
 **Get Response Lite** is a lightweight, modular Node.js CLI tool designed to bring the power of Google's Gemini AI directly to your terminal. Whether you need a quick answer, an interactive chat session, or automated terminal command execution, Get Response Lite provides a seamless and aesthetically pleasing experience.
 
-Created by [Swapnoneel Saha](https://x.com/swapnoneel123), this is the streamlined version of the [Get-Response](https://www.npmjs.com/package/get-response) package, optimized for speed and minimal overhead.
+Created by [Swapnoneel Saha](https://www.swapnoneel.site), this is the streamlined version of the [Get-Response](https://www.npmjs.com/package/get-response) package, optimized for speed and minimal overhead.
 
 ---
 
 ## ✨ Features
 
-- **Instant Answers**: Get high-quality responses from Gemini 2.0/2.5 Flash models instantly.
+- **Instant Answers**: Get high-quality responses from Gemini 2.5 Flash models instantly.
 - **Context Awareness**: Use files (`-f`) or entire directories (`-d`) as context for your questions.
 - **Interactive Chat**: Enter a persistent chat session (`-c`) that remembers the context of your conversation.
 - **Terminal Automation**: Let AI generate and execute terminal commands (`-t`) based on your natural language prompts.
@@ -103,12 +103,12 @@ npx ai "Find all .js files and count the lines of code" -t
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas for new features or bug fixes, feel free to:
-1. Open an issue on the [Get Response Repo](https://github.com/Swpn0neel/get-response).
+1. [Open an issue](https://github.com/Swpn0neel/get-response-lite/issues).
 2. Submit a pull request with your improvements.
 
 ## 📄 License & Credits
 
-- **Author**: Swapnoneel Saha ([@swapnoneel123](https://www.swapnoneel.site))
+- **Author**: [Swapnoneel Saha](https://www.swapnoneel.site)
 - **License**: CC-BY-NC-SA-3.0
 - **Main Package**: [get-response](https://www.npmjs.com/package/get-response)
 
